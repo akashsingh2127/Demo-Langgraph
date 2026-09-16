@@ -1,0 +1,1 @@
+''' __inti__.py is a special file that is used to mark a directory as a Python package. It can be empty or contain initialization code for the package. When a package is imported, the __init__.py file is executed, allowing you to define package-level variables, functions, or classes.'''
